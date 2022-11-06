@@ -1,0 +1,16 @@
+com\wu\util\CookieUtil.class
+com\wu\util\LoginHandlerInterceptor.class
+com\wu\controller\MyController.class
+com\wu\config\MyMvcConfig.class
+com\wu\mapper\ContactPersonMapper.class
+com\wu\entity\User.class
+com\wu\service\ContactPersonService.class
+com\wu\service\UserService.class
+com\wu\listener\MyHttpSessionListener.class
+com\wu\BsMyAddressBookApplication.class
+com\wu\service\impl\ContactPersonServiceImpl.class
+com\wu\util\ResultCodeEnum.class
+com\wu\util\Result.class
+com\wu\entity\ContactPerson.class
+com\wu\service\impl\UserServiceImpl.class
+com\wu\mapper\UserMapper.class
